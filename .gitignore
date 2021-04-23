@@ -4,3 +4,6 @@
 
 # MP3
 **/*.mp3
+
+# icloud
+*.icloud
